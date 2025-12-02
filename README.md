@@ -1,5 +1,5 @@
 # Ozon 🍃
-> **Live Air Quality & Weather Analyzer powered by Local AI**
+> **Live Air Quality & Weather Analyzer powered by Cloud AI**
 
 ![Ozon Banner](https://img.shields.io/badge/Status-Beta-blue?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker) ![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi)
 
