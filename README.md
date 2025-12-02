@@ -3,7 +3,7 @@
 
 ![Ozon Banner](https://img.shields.io/badge/Status-Beta-blue?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker) ![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi)
 
-**Ozon** is a premium, Dockerized web application that delivers real-time Air Quality Index (AQI) and weather data based on your live location. It integrates with the **Groq API** (Llama 3.1) to provide personalized, structured health advice in a beautiful, glassmorphism-styled interface.
+**Ozon** is a premium, Dockerized web application that delivers real-time Air Quality Index (AQI) and weather data based on your live location. It integrates with the  in-house Cyclops AI model to provide personalized, structured health advice in a beautiful, glassmorphism-styled interface.
 
 ---
 
@@ -49,4 +49,5 @@
   <sub>Developed with ❤️ by Alan Cyril Sunny</sub><br>
   <sub>Powered by in-house Cyclops AI model beta version 2336</sub>
 </div>
+
 
