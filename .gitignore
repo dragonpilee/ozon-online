@@ -17,6 +17,7 @@ Thumbs.db
 # Build Output
 dist/
 build/
+public/
 coverage/
 
 # Logs
