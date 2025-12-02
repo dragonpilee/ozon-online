@@ -12,7 +12,7 @@
 - **📍 Live Geolocation**: Instantly fetches data for your exact coordinates.
 - **🌫️ Real-time AQI**: Detailed metrics for PM2.5, PM10, NO₂, and Ozone.
 - **🌤️ Weather Conditions**: Current temperature, humidity, and wind speed.
-- **🧠 AI-Powered Insights**: "in-house Cyclops AI" analyzes data to give actionable health advice.
+- **🧠 AI-Powered Insights**: In-house Cyclops AI analyzes data to give actionable health advice.
 - **🗺️ Interactive Map**: Visual location tracking with Leaflet.
 - **🎨 Premium UI**: Dark theme, glassmorphism effects, and "alive" animations.
 - **🐳 Fully Dockerized**: One-command deployment for both frontend and backend.
