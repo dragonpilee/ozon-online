@@ -31,7 +31,7 @@
 1.  Clone or download this repository.
 2.  Navigate to the project root.
 3.  Run the application using Docker Compose:
-*   **Backend**: FastAPI, Python, Requests
+*   **Backend**: FastAPI, Python, Requests (in `api/` folder)
 *   **AI Integration**: Groq API (Llama 3.1)
 *   **Data Sources**: Open-Meteo API (AQI & Weather)
 *   **Containerization**: Docker, Docker Compose
